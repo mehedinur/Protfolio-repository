@@ -1,4 +1,15 @@
+body{
+    font-family:'Poppins', sans-serif;
+}
+
+
 h1{
-    color:darkgoldenrod;
-    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+} 
+.orange-color{
+    color: rgb(236, 162, 72);
+}
+
+button{
+    color: orange;
 }
