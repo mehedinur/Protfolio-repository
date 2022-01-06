@@ -63,6 +63,21 @@ h2{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left ;
-   
+}
 
+#web-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+
+#full-experience{
+border-left: 7px solid;
+border-image: linear-gradient(purple, tomato);
+border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+    padding-top: 50px;
 }
